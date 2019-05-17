@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Ruby Book",
+      "author_id": 1
+    }
+  ],
+  "author": {
+    "id": 1,
+    "name": "computeus"
+  }
+}
